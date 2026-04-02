@@ -40,10 +40,10 @@ import websockets
 # The CopperHead server to connect to. Set this to your server's URL so you
 # don't need to pass --server every time. Use "ws://" for local servers or
 # "wss://" for Codespaces/remote servers.
-GAME_SERVER = "ws://localhost:8765/ws/"
+GAME_SERVER = "wss://improved-barnacle-j77qjjw6q7cp9q6-8765.app.github.dev/ws/"
 
 # Your bot's display name (shown to all players in the tournament)
-BOT_NAME = "MyBot"
+BOT_NAME = "Cloud 9"
 
 # How your bot appears in logs
 BOT_VERSION = "1.0"
